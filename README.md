@@ -34,3 +34,27 @@ For first.txt "DV branch ready for conflict"
 And now merge DV branch to main [conflict? solve it!]
 
 Edit the merge message and save as "Second Merge almost killed me!"
+
+Create 2 branches called "stash-me" and "stash-fw" and switch to stash-me
+
+Create a file stashme.txt and edit n paste the message "Not going to save here" [ IMP : Dont commit ]
+
+Switch and Commit it to stash-fw branch.
+
+Now switch to master and edit first.txt and add text "Stash sceneario 2" and commit as "Stash sceneario phase 2"
+
+Switch to stash-fw and edit first.txt add message "No way back" [ IMP : Dont commit ] 
+
+Now try to switch to main. Not able to switch ? Git wont let you do it.[ Conflict ?? Real use of stash ] 
+
+
+
+
+
+
+
+
+
+
+
+
