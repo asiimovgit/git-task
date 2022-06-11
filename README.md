@@ -4,7 +4,7 @@ Install git and create folder name git-task and initialise it.
 
 Add file named "first.txt" and commit as "First commit"
 
-Add 1 more files "second.txt" and commit as "Second commit"
+Add 1 more file "second.txt" and commit as "Second commit"
 
 Create a branch named "ffbranch" and switch to it
 
