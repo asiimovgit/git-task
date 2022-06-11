@@ -3,3 +3,5 @@
 
 usage : git log --oneline --graph
 create <yourname.txt> on your workspace, save the logs in there and push to your remote repository.
+
+Send me a pull request.
