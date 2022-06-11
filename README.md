@@ -47,6 +47,8 @@ Switch to stash-fw and edit first.txt add message "No way back" [ IMP : Dont com
 
 Now try to switch to main. Not able to switch ? Git wont let you do it.[ Conflict ?? Real use of stash ] 
 
+Stash and move on.
+
 
 
 
