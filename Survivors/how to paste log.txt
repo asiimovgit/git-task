@@ -1,0 +1,2 @@
+Save your git log or commit history here 
+usage : git log --oneline --graph
