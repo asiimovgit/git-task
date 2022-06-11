@@ -27,7 +27,7 @@ For first.txt "DV branch commit first.txt"
 For second.txt "DV branch commit second.txt"
 
 
-switch to master or main branch and edit any of the file and commit 
+Switch to master or main branch and edit any of the file and commit 
 
 For first.txt "DV branch ready for conflict"
 
