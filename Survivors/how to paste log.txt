@@ -1,7 +1,7 @@
 #Save your git log or commit history here 
 Fork this repo
 
-usage : git log --all --oneline --graph
+usage : git log --all --oneline --graph [From your git-task @laptop]
 create <yourname.txt> on your workspace/Survivors, save the logs in there and push to your github repository.
 
 How to create a pull request?
