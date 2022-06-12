@@ -1,7 +1,9 @@
 #Save your git log or commit history here 
+Fork this repo
+
+usage : git log --all --oneline --graph
+create <yourname.txt> on your workspace, save the logs in there and push to your github repository.
 
 
-usage : git log --oneline --graph
-create <yourname.txt> on your workspace, save the logs in there and push to your remote repository.
 
 Send me a pull request.
