@@ -2,8 +2,9 @@
 Fork this repo
 
 usage : git log --all --oneline --graph
-create <yourname.txt> on your workspace, save the logs in there and push to your github repository.
+create <yourname.txt> on your workspace/Survivors, save the logs in there and push to your github repository.
 
-
+How to create a pull request?
+You can see a pull request tab above, click on it create pull request.
 
 Send me a pull request.
