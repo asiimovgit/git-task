@@ -51,6 +51,8 @@ Stash and move on.
 
 Have you done all of the above, now go to Survivors folder on the repo you will see next task.
 
+Revert and reset you may workout by yourselfs.
+
 Enjoy!!
 
 
