@@ -49,6 +49,9 @@ Now try to switch to main. Not able to switch ? Git wont let you do it.[ Conflic
 
 Stash and move on.
 
+Have you done all of the above, now go to Survivors folder on the repo you will see next task.
+
+Enjoy!!
 
 
 
