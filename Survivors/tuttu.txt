@@ -1,0 +1,16 @@
+tuttu@Tuttu:~/git-task$ git log --all --oneline --graph
+* b8059dc (master) Stash sceneario phase 2
+| * 86bfff7 (HEAD -> stash-fw) comit
+|/  
+*   0b4b218 (stash-me) Second Merge almost killed me!
+|\  
+| * 24ec557 (dvbranch) DV branch commit second.txt
+| * 1ccb83a DV branch commit first.txt
+* | 6630666 DV branch ready for conflict
+|/  
+* 28c5737 First Merge from FF branch to main
+| * ef6a27b (ffbranch) FF branch commit second.txt
+|/  
+* 1c3fb07 FF branch commit first.txt
+* 77fb0bf second commit
+* 0db7c2c First commit
