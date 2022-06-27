@@ -1,0 +1,18 @@
+anooppa@NDZ-LNX-LAP-193 ~/git_lesson/task $ git log --all --oneline --graph
+*   c85add9 (refs/stash) WIP on stash-fw: 373fedc Commiting to stash-fw branch
+|\  
+| * 7b2a5dd index on stash-fw: 373fedc Commiting to stash-fw branch
+|/  
+* 373fedc (stash-fw) Commiting to stash-fw branch
+| * 187bcf4 (HEAD -> master) Stash sceneario phase 2
+|/  
+*   4eff484 (stash-me) Second Merge almost killed me!
+|\  
+| * 6d403b0 (dvbranch) DV branch commit second.txt
+| * b909353 DV branch commit first.txt
+* | 8120d6e DV branch ready for conflict
+|/  
+* d1ece95 (ffbranch) FF branch commit second.txt
+* 79cb899 FF branch commit first.txt
+* 25c9fca Second commit
+* 1ae5e45 First commit
