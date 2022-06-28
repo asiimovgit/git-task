@@ -1,0 +1,26 @@
+* 5806791 (HEAD -> master) Back to Scenario 2-Revert- master
+* 9d8994e Eight commit-Revert test-master
+* 3ecffe6 Stash Scenario Phase 2
+| *   362de6f (refs/stash) WIP on stash-fw: 3a21be4 Second commit-Stashme.txt-stash-fw br
+| |\  
+| | * 3fb4d8a index on stash-fw: 3a21be4 Second commit-Stashme.txt-stash-fw br
+| |/  
+| * 3a21be4 (stash-fw) Second commit-Stashme.txt-stash-fw br
+| * 0fdff83 First commit-Stashme.txt-stash-fw br
+|/  
+*   ed80238 (stash-me) sixth commit - master
+|\  
+| * 178c2dc (dvbranch) Second commit-dv branch
+* | 5e33b46 Fifth commit - master
+* | b296a26 fourth commit-master
+|\| 
+| * 291e9ee First commit second.txt-dvbranch
+| * 998d52e First commit-dvbranch
+* | e6c1965 dv branch ready for conflict-second.txt
+* | 245d259 dv branch ready for conflict
+|/  
+* 64429f5 (ffbranch) Third commit-ff
+* faad562 Second edit-ffbranch
+* c38439b Second commit-second.txt
+* 1b16d7b Second commit-file.txt
+* 24c8095 First Commit-file.txt
