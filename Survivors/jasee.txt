@@ -1,0 +1,18 @@
+git log --all --oneline --graph
+*   1f8a07e (refs/stash) WIP on stash-fw: 488e4ca stashme
+|\  
+| * f9ff847 index on stash-fw: 488e4ca stashme
+|/  
+* 488e4ca (stash-fw) stashme
+| * 57992c2 (HEAD -> master) Stash sceneario phase 2
+|/  
+*   aad8410 (stash-me) Second Merge almost killed me!
+|\  
+| * 3fade22 (dvbranch) DV branch commit second.txt
+| * bf4fdab DV branch commit first.txt
+* | 588222f DV branch ready for conflict
+|/  
+* 06dd177 (ffbranch) FF branch commit second.txt
+* 526a43e FF branch commit first.txt
+* a0b3ba0 seconf commit
+* ca0ead6 First commit
