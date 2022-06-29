@@ -1,0 +1,20 @@
+arunrameshan@ndz-Lenovo-ideapad-320-15IKB:~/Git/git-task$ git log --all --oneline --graph
+*   e985569 (refs/stash) On stash-fw: stashing to stash-fw branch
+|\  
+| * eefd20a index on stash-fw: 8051c94 Committing to stash-fw branch
+|/  
+* 8051c94 (HEAD -> stash-fw) Committing to stash-fw branch
+| * 9900531 (master) Stash sceneario phase 2
+|/  
+*   0b02578 (stash-me) Second Merge almost killed me!
+|\  
+| * d8dee8c (dvbranch) DV branch commit second.txt
+| * 310a428 DV branch commit first.txt
+* | f9d83b3 DV branch ready for conflict
+|/  
+* 89af12d First Merge from FF branch to main
+| * b85418c (ffbranch) FF branch commit second.txt
+|/  
+* be2ee09 FF branch commit first.txt
+* 3d2ed2d Second commit
+* aa500b8 First commit
