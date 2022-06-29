@@ -1,0 +1,18 @@
+*   f061bdc On stash-me: add style to our site
+|\  
+| * f673931 index on stash-me: acb5c7d Second Merge almost killed me!
+|/  
+| * d5dad5e Stash sceneario phase 2
+|/  
+| * fbcb5de Commit stashme.txt from stash-fw
+|/  
+*   acb5c7d Second Merge almost killed me!
+|\  
+| * e524389 DV branch commit second.txt
+| * aa0f0d2 DV branch commit first.txt
+* | 9e168af DV branch ready for conflict
+|/  
+* df6c6ac FF branch commit second.txt
+* 6183c28 FF branch commit first.txt
+* b662b9f Second commit
+* 49f816d First commit
