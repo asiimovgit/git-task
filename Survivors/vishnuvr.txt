@@ -1,0 +1,17 @@
+*   83b5d59 (refs/stash) WIP on stash-fw: f54c8f6 commited from stash-fw
+|\  
+| * 8d1c721 index on stash-fw: f54c8f6 commited from stash-fw
+|/  
+* f54c8f6 (stash-fw) commited from stash-fw
+| * 1f46528 (HEAD -> master) tash sceneario phase 2
+|/  
+*   72d8583 (stash-me) Second Merge almost killed me!
+|\  
+| * 094383a (dvbranch) DV branch commit second.txt
+| * f4f4c24 DV branch commit first.txt
+* | 609b771 DV branch ready for conflict
+|/  
+* 828bf93 (ffbranch) FF branch commit second.txt
+* aaae090 FF branch commit first.txt
+* bd55017 second commit
+* f81c766 first commit
